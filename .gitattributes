@@ -21,3 +21,4 @@
 derivatives/** linguist-generated=true
 external/**    linguist-vendored=true
 rag/**         linguist-generated=true
+Ionity[[:space:]]GIF/Ionity-Stickers-Emojis-ALL.zip filter=lfs diff=lfs merge=lfs -text
