@@ -1,21 +1,40 @@
-# Ionity Assets
+# Ionity Global — Official Asset Repository (2026)
 
-> Official public digital asset catalog for Ionity Global (Pty) Ltd. This is an asset directory, not a corporate or marketing website.
+> Canonical public digital asset collection for Ionity (Pty) Ltd / Ionity Global / AEDI (Antwerp Ecosystems Designs Ionity), Centurion, South Africa. Brand marks, logos, icons, favicons, sticker and emoji packs, music, video, business cards, ANSI art, design tokens and a machine-readable catalogue. Governed by Policy 986 AED; License AED 900; CC BY-NC-SA 4.0 where stated. This is an asset directory, not a corporate website.
 
-Canonical catalog: https://ionity-global-pty-ltd.github.io/ionity-assets/assets.json
-JSON Schema: https://ionity-global-pty-ltd.github.io/ionity-assets/assets.schema.json
-Human directory: https://ionity-global-pty-ltd.github.io/ionity-assets/
-Source repository: https://github.com/Ionity-Global-Pty-Ltd/ionity-assets
-Documentation: https://github.com/Ionity-Global-Pty-Ltd/ionity-assets/wiki
+Canonical catalog: https://ionity-global.github.io/ASSETS-IONITY-2026-/assets.json
+JSON Schema: https://ionity-global.github.io/ASSETS-IONITY-2026-/assets.schema.json
+Human directory: https://ionity-global.github.io/ASSETS-IONITY-2026-/
+Source repository: https://github.com/Ionity-Global/ASSETS-IONITY-2026-
+Public mirror: https://github.com/AntwerpDesignsIonity/ASSETS-IONITY-2026-
+Documentation (indexable): https://ionity-global.github.io/ASSETS-IONITY-2026-/wiki/Home.html
+Documentation (GitHub Wiki): https://github.com/Ionity-Global/ASSETS-IONITY-2026-/wiki
+Sitemap: https://ionity-global.github.io/ASSETS-IONITY-2026-/sitemap.xml
+
+## Documentation pages
+
+- [Home](https://ionity-global.github.io/ASSETS-IONITY-2026-/wiki/Home.html): overview, folder summary, citation
+- [Asset Catalog](https://ionity-global.github.io/ASSETS-IONITY-2026-/wiki/Asset-Catalog.html): folder map, categories, formats, URL patterns, assets.json contract
+- [Brand and Licensing](https://ionity-global.github.io/ASSETS-IONITY-2026-/wiki/Brand-and-Licensing.html): colours, logo rules, Policy 986 AED, AED 900 / AED 990, Apache / MIT / CC sections
+- [IoT](https://ionity-global.github.io/ASSETS-IONITY-2026-/wiki/IoT.html): the related Ionity edge AI / AIoT / industrial IoT ecosystem, products, hardware stack, repositories
+- [SEO and Indexing](https://ionity-global.github.io/ASSETS-IONITY-2026-/wiki/SEO-and-Indexing.html): keywords, metadata, structured data, indexing checklist
+- [Official Links](https://ionity-global.github.io/ASSETS-IONITY-2026-/wiki/Official-Links.html): verified identity and link registry
 
 ## Discovery guidance
 
-- Use `assets.json` as the authoritative file index.
-- Search `name`, `path`, `category`, and `format` to locate assets.
-- Use `raw_url` when an application needs the file bytes directly.
-- Use `github_url` when a human should inspect source history or repository context.
-- Do not infer endorsement or unrestricted usage from public availability. Check LICENSE and repository usage notices.
-- Ionity Global (Pty) Ltd is not affiliated with the European EV charging company at ionity.com.
+- Use `assets.json` as the authoritative file index; search `name`, `path`, `category`, `format`.
+- Use `raw_url` for file bytes and `github_url` for human context / history.
+- Files above 100 MB are stored with Git LFS (currently `Ionity GIF/Ionity-Stickers-Emojis-ALL.zip`).
+- Do not infer endorsement or unrestricted usage from public availability. Check LICENSE, `License-Ionity Global.txt` and the Brand and Licensing page.
+- Ionity here refers exclusively to www.ionity.today and www.ionity.world. Not affiliated with the European EV-charging company at ionity.com.
+
+## Identity
+
+- Organisation: Ionity (Pty) Ltd — formerly Antwerp Designs (2018) — AEDI
+- Owner / author: Johan Wilhelm van Antwerp — ORCID 0009-0005-7181-0347
+- Websites: https://www.ionity.today · https://www.ionity.world · https://www.ionity.co.za · https://ionityearth.shop
+- Contact: info@ionity.today · ai@ionity.today · +27 646 999 877
+- Tagline: Building Tomorrow, Today.
 
 ## Categories
 

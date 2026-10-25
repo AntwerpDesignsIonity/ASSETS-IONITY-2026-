@@ -1,4 +1,17 @@
+# Ionity Global — official asset repository · Policy 986 AED
 User-agent: *
 Allow: /
 
-Sitemap: https://ionity-global-pty-ltd.github.io/ionity-assets/sitemap.xml
+# AI / LLM crawlers are welcome; usage is subject to the licence terms in wiki/Brand-and-Licensing.html
+User-agent: GPTBot
+Allow: /
+User-agent: ClaudeBot
+Allow: /
+User-agent: Google-Extended
+Allow: /
+User-agent: PerplexityBot
+Allow: /
+User-agent: CCBot
+Allow: /
+
+Sitemap: https://ionity-global.github.io/ASSETS-IONITY-2026-/sitemap.xml
