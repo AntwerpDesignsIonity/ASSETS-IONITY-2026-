@@ -5,7 +5,7 @@ Author: Johan Wilhelm van Antwerp | Ionity (Pty) Ltd | AEDI
 Document ID: DOC-2026-10-001 | Version: 1.0 | Updated: 2026-10-25 SAST
 Governance: Policy 986 AED | License: AED 900 | CC BY-NC-SA 4.0 where stated
 (c) 2018-2026 Antwerp Designs | Ionity (Pty) Ltd - All Rights Reserved - TM2
-Web: https://www.ionity.today | https://www.ionity.world | Ref: https://www.ionity.co.za
+Web: https://www.ionity.today | Ref: https://www.ionity.co.za
 Classification: PUBLIC | Building Tomorrow, Today. | Anything is Possible with God.
 ========================================================================================
 -->
@@ -21,7 +21,6 @@ Classification: PUBLIC | Building Tomorrow, Today. | Anything is Possible with G
 | **Location** | Centurion, Gauteng, South Africa (remote, global intent) |
 | **Tagline** | *Building Tomorrow, Today.* |
 | **Primary site** | https://www.ionity.today |
-| **Profile & links** | https://www.ionity.world |
 | **Reference site** | https://www.ionity.co.za |
 | **Canonical repo** | https://github.com/Ionity-Global/ASSETS-IONITY-2026- |
 | **Public mirror** | https://github.com/AntwerpDesignsIonity/ASSETS-IONITY-2026- |
@@ -73,7 +72,7 @@ A `CITATION.cff` is included in the repository root.
 
 ## Not affiliated
 
-**Ionity** in this repository refers exclusively to **www.ionity.today** and **www.ionity.world** (Ionity (Pty) Ltd, South Africa). It is **not affiliated** with the European EV-charging company operating at ionity.com or related domains.
+**Ionity** in this repository refers exclusively to **www.ionity.today** (Ionity (Pty) Ltd, South Africa). It is **not affiliated** with the European EV-charging company operating at ionity.com or related domains.
 
 ---
 *Ionity (Pty) Ltd · AEDI · Policy 986 AED · (c) 2018-2026 Antwerp Designs | Ionity (Pty) Ltd — All Rights Reserved — TM2 · Building Tomorrow, Today. · Anything is Possible with God.*

@@ -11,7 +11,6 @@ export const ionityTokens = {
     "rights": "(c) 2018-2026 Antwerp Designs | Ionity (Pty) Ltd \u2014 All Rights Reserved \u2014 TM2",
     "web": [
       "https://www.ionity.today",
-      "https://www.ionity.world"
     ],
     "reference": "https://www.ionity.co.za",
     "updated": "2026-08-30"

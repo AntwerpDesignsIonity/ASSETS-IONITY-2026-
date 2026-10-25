@@ -30,10 +30,7 @@ The verified registry of every official Ionity / AEDI / Johan Wilhelm van Antwer
 | Site | URL |
 |---|---|
 | Primary | https://www.ionity.today |
-| Profile & links | https://www.ionity.world |
 | Reference | https://www.ionity.co.za |
-| Technology shop | https://ionityearth.shop |
-| WordPress | https://ionityearth.wordpress.com |
 | Legacy (maintenance) | http://antwerpdesigns.com |
 | Asset directory | https://ionity-global.github.io/ASSETS-IONITY-2026-/ |
 
@@ -41,7 +38,7 @@ The verified registry of every official Ionity / AEDI / Johan Wilhelm van Antwer
 
 | | |
 |---|---|
-| Business email | info@ionity.today · johan@ionity.today · ai@ionity.today · services@ionity.world · johan@ionity.world · johan@ionityearth.shop · johan@antwerpdesigns.com (maintenance) |
+| Business email | info@ionity.today · johan@ionity.today · ai@ionity.today · johan@antwerpdesigns.com (maintenance) |
 | Published personal email | johanvanantwerp007@gmail.com |
 | Business phone | +27 646 999 877 |
 | Preferred | Email |
@@ -91,11 +88,11 @@ The verified registry of every official Ionity / AEDI / Johan Wilhelm van Antwer
 | | |
 |---|---|
 | Governance | Policy 986 AED — governs all internal and external relations by default |
-| Licence pages | https://www.ionity.today/license.html · https://www.ionity.world/license |
+| Licence pages | https://www.ionity.today/license.html |
 | Creative Commons | https://creativecommons.org/ |
 | IP guidelines | WIPO — All Rights Reserved |
 | Whistle-blower reference | https://www.sec.gov |
-| Exclusion | *Ionity* refers exclusively to www.ionity.today and www.ionity.world — not affiliated with www.ionity.com or related domains |
+| Exclusion | *Ionity* refers exclusively to www.ionity.today — not affiliated with www.ionity.com or related domains |
 
 ## Provenance and corrections
 

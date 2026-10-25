@@ -4,7 +4,7 @@ AEDI - IONITY GLOBAL - DERIVATIVES/PNG/AEDI-ANTWERP-DESIGNS-IONITY-GLOBAL
 Author: Johan Wilhelm van Antwerp | Ionity (Pty) Ltd | AEDI
 Version: 3.0.0 | Updated: 2026-08-31 SAST | Governance: Policy 986 AED
 (c) 2018-2026 Antwerp Designs | Ionity (Pty) Ltd - All Rights Reserved - TM2
-Web: https://www.ionity.today | https://www.ionity.world | Ref: https://www.ionity.co.za
+Web: https://www.ionity.today | Ref: https://www.ionity.co.za
 Classification: PUBLIC | Building Tomorrow, Today. | Anything is Possible with God.
 ========================================================================================
 -->
@@ -40,4 +40,4 @@ PNG size ladder, 16 px to 2048 px, aspect preserved, transparent.
 
 ---
 
-*© 2018–2026 Antwerp Designs | Ionity (Pty) Ltd — All Rights Reserved — TM² · Policy 986 AED · [ionity.today](https://www.ionity.today) · [ionity.world](https://www.ionity.world) · Building Tomorrow, Today.*
+*© 2018–2026 Antwerp Designs | Ionity (Pty) Ltd — All Rights Reserved — TM² · Policy 986 AED · [ionity.today](https://www.ionity.today) · Building Tomorrow, Today.*

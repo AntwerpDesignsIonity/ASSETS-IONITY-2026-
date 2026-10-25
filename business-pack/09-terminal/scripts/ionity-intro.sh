@@ -15,4 +15,4 @@ echo
 [ -f "$ART" ] && cat "$ART" || cat "$HERE/../logos/ionity-global-logo-100col.ans"
 echo
 printf '\033[38;5;51m  Building Tomorrow, Today.\033[0m   \033[38;5;245mAnything is Possible with God.\033[0m\n'
-printf '\033[38;5;245m  www.ionity.today · www.ionity.world · Policy 986 AED · TM2\033[0m\n'
+printf '\033[38;5;245m  www.ionity.today · Policy 986 AED · TM2\033[0m\n'

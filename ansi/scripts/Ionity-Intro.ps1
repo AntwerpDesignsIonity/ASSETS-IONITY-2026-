@@ -17,4 +17,4 @@ foreach ($f in @($banner, $art)) {
     if (Test-Path $f) { Get-Content -Raw -Encoding UTF8 $f | Write-Host; "" | Write-Host }
 }
 Write-Host "  Building Tomorrow, Today.   Anything is Possible with God." -ForegroundColor Cyan
-Write-Host "  www.ionity.today | www.ionity.world | Policy 986 AED | TM2"  -ForegroundColor DarkGray
+Write-Host "  www.ionity.today | Policy 986 AED | TM2"  -ForegroundColor DarkGray

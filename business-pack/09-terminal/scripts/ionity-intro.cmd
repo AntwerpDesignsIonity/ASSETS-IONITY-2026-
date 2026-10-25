@@ -11,5 +11,5 @@ echo.
 type "%~dp0..\logos\ionity-global-logo-100col.ans"
 echo.
 echo   Building Tomorrow, Today.   Anything is Possible with God.
-echo   www.ionity.today ^| www.ionity.world ^| Policy 986 AED ^| TM2
+echo   www.ionity.today ^| Policy 986 AED ^| TM2
 endlocal

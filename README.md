@@ -3,7 +3,7 @@
 AEDI - IONITY GLOBAL - OFFICIAL ASSET REPOSITORY 2026
 Author: Johan Wilhelm van Antwerp | Ionity (Pty) Ltd | AEDI | Policy 986 AED
 (c) 2018-2026 Antwerp Designs | Ionity (Pty) Ltd - All Rights Reserved - TM2
-Web: https://www.ionity.today | https://www.ionity.world | Ref: https://www.ionity.co.za
+Web: https://www.ionity.today | Ref: https://www.ionity.co.za
 ========================================================================================
 -->
 
@@ -54,7 +54,7 @@ Agents should retrieve `assets.json` and filter its `assets` array. Each record 
 
 Johan Wilhelm van Antwerp · Founder, Technical Lead & Architect — Ionity (Pty) Ltd · ORCID [0009-0005-7181-0347](https://orcid.org/0009-0005-7181-0347) · Centurion, Gauteng, South Africa · info@ionity.today · +27 646 999 877
 
-**Ionity** here refers exclusively to www.ionity.today and www.ionity.world. Ionity (Pty) Ltd is not affiliated with the European EV charging company operating at ionity.com.
+**Ionity** here refers exclusively to www.ionity.today. Ionity (Pty) Ltd is not affiliated with the European EV charging company operating at ionity.com.
 
 ---
 *(c) 2018-2026 Antwerp Designs | Ionity (Pty) Ltd — All Rights Reserved — TM2 · Policy 986 AED · License AED 900 · CC BY-NC-SA 4.0 where stated · Building Tomorrow, Today.*

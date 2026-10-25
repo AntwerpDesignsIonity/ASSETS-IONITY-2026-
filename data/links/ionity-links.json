@@ -39,9 +39,6 @@
       "info@ionity.today",
       "johan@ionity.today",
       "ai@ionity.today",
-      "services@ionity.world",
-      "johan@ionity.world",
-      "johan@ionityearth.shop",
       "johan@antwerpdesigns.com (maintenance)"
     ],
     "published_personal_email": "johanvanantwerp007@gmail.com",
@@ -50,11 +47,7 @@
   },
   "websites": {
     "primary": "https://www.ionity.today",
-    "profile_and_links": "https://www.ionity.world",
     "reference": "https://www.ionity.co.za",
-    "technology_shop": "https://ionityearth.shop",
-    "wordpress": "https://ionityearth.wordpress.com",
-    "wordpress_base64_logo": "https://ionityearth.wordpress.com/base64",
     "legacy_maintenance": "http://antwerpdesigns.com"
   },
   "youtube": {
@@ -120,7 +113,7 @@
     "creative_commons": "https://creativecommons.org/",
     "whistleblower_reference": "https://www.sec.gov",
     "ip_guidelines": "WIPO World Intellectual Property guidelines - All Rights Reserved",
-    "exclusion_notice": "Ionity refers exclusively to www.ionity.today and www.ionity.world. Not affiliated with www.ionity.com or related domains."
+    "exclusion_notice": "Ionity refers exclusively to www.ionity.today. Not affiliated with www.ionity.com or related domains."
   },
   "provenance": {
     "sources": [

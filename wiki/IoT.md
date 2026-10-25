@@ -83,7 +83,6 @@ Sister organisations: [Ionity-Global-Pty-Ltd](https://github.com/Ionity-Global-P
 | AEDi online | https://www.ionity.today/aedi-online.html |
 | Roadmap | https://www.ionity.today/roadmap.html |
 | Reference site (Edge Lab, products) | https://www.ionity.co.za |
-| Technology shop | https://ionityearth.shop |
 | YouTube | https://www.youtube.com/@Ionityglobal |
 
 ## Keywords

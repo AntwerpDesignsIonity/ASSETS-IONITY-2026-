@@ -4,7 +4,7 @@ Author: Johan Wilhelm van Antwerp | Ionity (Pty) Ltd | AEDI
 Document ID: DOC-2026-10-003 | Version: 2.0 | Updated: 2026-10-24 SAST
 Governance: Policy 986 AED | License: AED 900 | CC BY-NC-SA 4.0 where stated
 (c) 2018-2026 Antwerp Designs | Ionity (Pty) Ltd - All Rights Reserved - TM2
-Web: https://www.ionity.today | https://www.ionity.world | Ref: https://www.ionity.co.za
+Web: https://www.ionity.today | Ref: https://www.ionity.co.za
 Classification: PUBLIC | Building Tomorrow, Today. | Anything is Possible with God.
 ========================================================================================
 

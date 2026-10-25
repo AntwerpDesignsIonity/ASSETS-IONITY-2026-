@@ -26,13 +26,13 @@ Sitemap: https://ionity-global.github.io/ASSETS-IONITY-2026-/sitemap.xml
 - Use `raw_url` for file bytes and `github_url` for human context / history.
 - Files above 100 MB are stored with Git LFS (currently `Ionity GIF/Ionity-Stickers-Emojis-ALL.zip`).
 - Do not infer endorsement or unrestricted usage from public availability. Check LICENSE, `License-Ionity Global.txt` and the Brand and Licensing page.
-- Ionity here refers exclusively to www.ionity.today and www.ionity.world. Not affiliated with the European EV-charging company at ionity.com.
+- Ionity here refers exclusively to www.ionity.today. Not affiliated with the European EV-charging company at ionity.com.
 
 ## Identity
 
 - Organisation: Ionity (Pty) Ltd — formerly Antwerp Designs (2018) — AEDI
 - Owner / author: Johan Wilhelm van Antwerp — ORCID 0009-0005-7181-0347
-- Websites: https://www.ionity.today · https://www.ionity.world · https://www.ionity.co.za · https://ionityearth.shop
+- Websites: https://www.ionity.today · https://www.ionity.co.za
 - Contact: info@ionity.today · ai@ionity.today · +27 646 999 877
 - Tagline: Building Tomorrow, Today.
 

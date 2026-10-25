@@ -77,7 +77,7 @@ The site root declares a `schema.org/DataCatalog` with a `Dataset` distribution 
   "address": {"@type": "PostalAddress", "addressLocality": "Centurion",
               "addressRegion": "Gauteng", "addressCountry": "ZA"},
   "email": "info@ionity.today", "telephone": "+27646999877",
-  "sameAs": ["https://www.ionity.world", "https://www.ionity.co.za",
+  "sameAs": ["https://www.ionity.co.za",
              "https://github.com/Ionity-Global", "https://github.com/AntwerpDesignsIonity",
              "https://www.youtube.com/@Ionityglobal", "https://www.linkedin.com/in/ionity",
              "https://x.com/JohanAntwerp"]
@@ -99,7 +99,7 @@ Repository **description**, **website** (homepage) and **topics** are set so Git
 ## Indexing checklist
 
 1. Submit `https://ionity-global.github.io/ASSETS-IONITY-2026-/sitemap.xml` in Google Search Console and Bing Webmaster Tools (verify the `ionity-global.github.io` property via HTML-file or meta-tag method).
-2. Link to the Pages site from www.ionity.today, www.ionity.world, www.ionity.co.za and the Linktree/Gravatar profiles — inbound links from the owned domains are the strongest ranking signal available.
+2. Link to the Pages site from www.ionity.today, www.ionity.today, www.ionity.co.za and the Linktree/Gravatar profiles — inbound links from the owned domains are the strongest ranking signal available.
 3. After every asset change: `node scripts/generate-catalog.mjs`, commit `assets.json`, bump the `<lastmod>` dates in `sitemap.xml`.
 4. Keep file names descriptive (`ionity-edge-node.gif`, not `adasd.png`) — image search indexes file names and alt text.
 5. Keep every page's `rel=canonical` pointing at the Ionity-Global Pages site, including the mirror.

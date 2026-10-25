@@ -139,7 +139,7 @@ All marks and material are governed by **Policy 986 AED**; licence **AED 900**
 (hardware & software), **CC BY-NC-SA 4.0** where explicitly stated. Marks are
 Ionity property, **TM²**. Use on Ionity / Johan Wilhelm van Antwerp deliverables only.
 
-"Ionity" refers exclusively to **www.ionity.today** and **www.ionity.world**
+"Ionity" refers exclusively to **www.ionity.today**
 (reference www.ionity.co.za). Not affiliated with ionity.com or any related domain.
 
 ---

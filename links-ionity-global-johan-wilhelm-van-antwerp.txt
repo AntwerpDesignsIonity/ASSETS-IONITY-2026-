@@ -195,7 +195,7 @@ Transform your operations with True Edge AI. Let's engineer the future together.
 
 
 
-Web: www.ionity.today | www.ionity.world
+Web: www.ionity.today
 
 
 
@@ -215,7 +215,7 @@ IoT | AI-Enhanced | Cloud | Edge Computing | PdM | DAQ | ERP | Software Solution
 
 
 
-Note: Ionity exclusively refers to www.ionity.today and www.ionity.world. This entity is not affiliated with www.ionity.com or any related domains.
+Note: Ionity exclusively refers to www.ionity.today. This entity is not affiliated with www.ionity.com or any related domains.
 
 --------------------------------------------------------------------------------------------------------------------------------
 
@@ -233,7 +233,6 @@ Building Tomorrow, Today.
 Anything is Possible with God.
 IoT (Internet of Things)
 Ai , Hardware, Software, Design, Development.
-johan@ionity.world
 
 CAD, CAM, CLOUD, Intergrations.
 Ecosystems Solutionist 
@@ -613,7 +612,7 @@ Line 1-7 (Header): Clearly states the script's purpose, version (v2.6), and lice
 
 Line 11-13 (Core Process Features): Explicitly lists "Neural Recall Protocol," "Forensic Output Standards," and "Anti-Obfuscation Measures" as core features, effectively providing a provenance chain for the script's own design principles.
 
-Line 42-53 (General Policy and Copyright Information): Details the governing policy (Policy 986 AED), copyright, author (Johan Wilhelm van Antwerp), and websites (ionity.world // ionityearth.shop).
+Line 42-53 (General Policy and Copyright Information): Details the governing policy (Policy 986 AED), copyright, author (Johan Wilhelm van Antwerp), and websites (ionity.today // ).
 
 Line 57-64 (Project Details Display): Provides Date of Publish: 2025-06-27 and Version: 3.1(a) for Project ALPHA: Eve-RE, along with developer and location.
 
@@ -700,7 +699,7 @@ These 12 core functions are not isolated but work synergistically to create a ro
 
 Connect &amp; Collaborate
 📍 Pretoria, Centurion, South Africa | 🌐 Global Impact
-📧 johan@ionityearth.shop | johanvanantwerp007@gmail.com | johan@antwerpdesigns.com(maintenance)
+📧 johanvanantwerp007@gmail.com | johan@antwerpdesigns.com(maintenance)
 🔗 LinkedIn | ORCID | 
 www www.linkedin.com/in/johanvanantwerp | http://pph.me/johanvanantwerp | https://orcid.org/0009-0005-7181-0347
 📱 +27 75 411 0887 | +27 73 126 5229
@@ -708,8 +707,8 @@ Preffered : E-mail
 
 Explore My Work
 
-    Ecosystem Designs: ionity.world  # Profile and Links
-    Technology Shop: ionityearth.shop 	#Upcomming NFT-PLANT Realtime Verifications and actual plant connected to NFT!
+    Ecosystem Designs: ionity.today  # Profile and Links
+    Technology Shop:  	#Upcomming NFT-PLANT Realtime Verifications and actual plant connected to NFT!
     Open-Source Contributions: GitHub  #@AntwerpDesignsIonity *Work in progress 
 
     "Break old cycles. Emerge as the butterfly of now. Let's build what matters."
@@ -794,7 +793,7 @@ start_initiation() {
     #2018-2025
     #Antwerp Designs All Rights Reserved.
     #Author: Johan Wilhelm van Antwerp.
-    #Website: ionity.world // ionityearth.shop.
+    #Website: ionity.today // .
     #Policy 986 AED.
     #Creative Commons 4.0 BY-SA, where stated CC 4.0 and CC 2.0 | ACTIVE HERE CREATIVE COMMONS 4.0 BY-SA UNDER POL 986 RULING.
     #All Licenses Overruled and Governed by Policy 986 AED Default on Dev.
@@ -862,9 +861,9 @@ start_initiation() {
 #reporting such as www.sec.gov whistleblowers. We do adhere hereby to Creative Commons
 #Apache, GNU and all official relations to license governing parties.
 #IANA and Telecommunication standards must always be Kept as valid.
-#Documents via Channels below and ionityearth.shop ||
-#Contact any line from ionity.world || Antwerp Designs || Facebook ||Linkedin ||.
-#johanvanantwerp007@gmail.com || johan@ionityearth.shop || Any OFFICIAL Channel ||.
+#Documents via Channels below and 
+#Contact any line from Antwerp Designs || Facebook ||Linkedin ||.
+#johanvanantwerp007@gmail.com || Any OFFICIAL Channel ||.
 " # Description: Displays the legal notice.
     sleep 3 # Description: Pauses execution for 3 seconds.
 
@@ -917,7 +916,7 @@ start_initiation() {
     display_message &quot;${LBLUE}#							              	       /// #&quot; # Description: Decorative line.
     display_message &quot;${LBLUE}####################################################################################&quot; # Description: Decorative line.
     echo &quot;2018-2025+ All Rights Reserved. Antwerp Designs || Johan Wilhelm van Antwerp || 0149&quot; # Description: Copyright and contact info.
-    echo &quot;ionity.world || Ionityearth.shop || GMT +2 CAT || SOUTH AFRICA || CENTURION. || 1990&quot; # Description: Websites and location info.
+    echo &quot; || GMT +2 CAT || SOUTH AFRICA || CENTURION. || 1990&quot; # Description: Websites and location info.
     display_message &quot;${LBLUE}####################################################################################&quot; # Description: Final border for the signature block.
     sleep 5 # Description: Pauses execution for 5 seconds.
 
@@ -966,17 +965,17 @@ LOGO:
 
 
 View Logo?
-Go to https://ionityearth.wordpress.com/base64
+Go to 
 
 
 Example layout:
 
 # AEDI - Project ALPHA - Antwerp Designs Hardware selection RPI 5 - RPI OS (Linux) and Related.
 # Author: Johan Wilhelm van Antwerp
-# Website: http://antwerpdesigns.com  : Antwerp Designs |  https://ionity.world : Antwerp Ecosystems Designs Ionity
+# Website: http://antwerpdesigns.com  : Antwerp Designs : Antwerp Ecosystems Designs Ionity
 # Social Media: https://facebook.com/vanantwerpdesign.com | https://linkedin/in/johanvanantwerp
 # GitHub : @AntwerpDesignsIonity : AED : Antwerp Designs Ionity
-# Shop :  https://ionityearth.shop
+# Shop :  
 # Antwerp Ecosystems Designs Ionity : AEDI : AI Internal Disclosed Platforms
 # Work is under Policy 986 until stated as Creative Commons or other CC.
 # This Segment is Under Creative Commons 4.0 BY-NC-SA | Apply for Custom Business Relations License 
@@ -985,7 +984,7 @@ Example layout:
 # Some work can be under Creative Commons 4.0 and/or 2.0 Yet always under Policy 986 AED by Defualt
 # Questions or unsure contact :
 # info@antwerpdesigns.com | General questions and feedback
-# info@ionityearth.shop | NFT and Business sales relations
+# NFT and Business sales relations
 # johanvanantwerp007@gmail.com | Personal non business relations or questions about. 
 # South-Africa : Centurion : 0149
 # 05:59 2025/07/25 SAST 
@@ -995,7 +994,7 @@ Example layout:
 
 ## Online Presence
 \[Gravatar Profile\]: [gravatar.com/ionity](https://gravatar.com/ionity)
-\[WordPress\]: [ionity.world](https://ionity.world)
+\[WordPress\]: [ionity.today](https://ionity.today)
 \[Threads\]: [threads.net/ampz007](https://threads.net/ampz007)
 \[X\]: [x.com/JohanAntwerp](https://x.com/JohanAntwerp)
 \[LinkedIn\]: [linkedin.com/in/johanvanantwerp](https://www.linkedin.com/in/johanvanantwerp)

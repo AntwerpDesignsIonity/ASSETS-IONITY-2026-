@@ -11,7 +11,7 @@ Classification: PUBLIC | Building Tomorrow, Today.
 
 # Brand and Licensing — Policy 986 AED
 
-This page states how the Ionity / AEDI brand may be used and which licence applies to which part of the repository. **Policy 986 AED governs all internal and external relations by default and overrules every other document on this page in intent.** Current terms are always published at https://www.ionity.today/license.html and https://www.ionity.world/license. Enquiries: ai@ionity.today.
+This page states how the Ionity / AEDI brand may be used and which licence applies to which part of the repository. **Policy 986 AED governs all internal and external relations by default and overrules every other document on this page in intent.** Current terms are always published at https://www.ionity.today/license.html and https://www.ionity.today/license.html. Enquiries: ai@ionity.today.
 
 ## Brand identity
 
@@ -76,7 +76,7 @@ Policy 986 AED is the master governance policy of Ionity (Pty) Ltd / AEDI. It go
 
 ## Trademark and exclusion notice
 
-**Ionity**, **AEDi** and **IO // WAY** are marks of Ionity (Pty) Ltd, South Africa. *Ionity* in this repository refers exclusively to **www.ionity.today** and **www.ionity.world** and is **not affiliated** with the European EV-charging network at ionity.com or any related domain.
+**Ionity**, **AEDi** and **IO // WAY** are marks of Ionity (Pty) Ltd, South Africa. *Ionity* in this repository refers exclusively to **www.ionity.today** and is **not affiliated** with the European EV-charging network at ionity.com or any related domain.
 
 ## Contact
 
@@ -84,7 +84,6 @@ Policy 986 AED is the master governance policy of Ionity (Pty) Ltd / AEDI. It go
 |---|---|
 | Licensing & AI | ai@ionity.today |
 | General | info@ionity.today · johan@ionity.today |
-| Services | services@ionity.world |
 | Phone | +27 646 999 877 |
 
 ---
